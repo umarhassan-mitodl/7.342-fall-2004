@@ -37,7 +37,8 @@
     "website": "7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004"
   },
   "course_title": "Cancer Biology: From Basic Research to the Clinic",
-  "course_description": "This course is one of many\u00a0{{% resource_link \"725b8b66-067f-4345-b8e2-19002a79f19d\" \"Advanced Undergraduate Seminars\" %}}\u00a0offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting.\n\nIn 1971, President Nixon declared the \"War on Cancer,\" but after three decades the war is still raging. How much progress have we made toward winning the war and what are we doing to improve the fight? Understanding the molecular and cellular events involved in tumor formation, progression, and metastasis is crucial to the development of innovative therapy for cancer patients. Insights into these processes have been gleaned through basic research using biochemical, molecular, and genetic analysis in yeast, C. elegans, mice, and cell culture models. We will explore the laboratory tools and techniques used to perform cancer research, major discoveries in cancer biology, and the medical implications of these breakthroughs. A focus of the class will be critical analysis of the primary literature to foster understanding of the strengths and limitations of various approaches to cancer research. Special attention will be made to the clinical implications of cancer research performed in model organisms and the prospects for ending the battle with this devastating disease.\n",
+  "hide_download": true,
+  "course_description": "This course is one of many\u00a0[Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars)\u00a0offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting.\n\nIn 1971, President Nixon declared the \"War on Cancer,\" but after three decades the war is still raging. How much progress have we made toward winning the war and what are we doing to improve the fight? Understanding the molecular and cellular events involved in tumor formation, progression, and metastasis is crucial to the development of innovative therapy for cancer patients. Insights into these processes have been gleaned through basic research using biochemical, molecular, and genetic analysis in yeast, C. elegans, mice, and cell culture models. We will explore the laboratory tools and techniques used to perform cancer research, major discoveries in cancer biology, and the medical implications of these breakthroughs. A focus of the class will be critical analysis of the primary literature to foster understanding of the strengths and limitations of various approaches to cancer research. Special attention will be made to the clinical implications of cancer research performed in model organisms and the prospects for ending the battle with this devastating disease.\n",
   "department_numbers": [
     "7"
   ],
@@ -47,6 +48,7 @@
     "content": "988f6fe4-9aa3-7a28-27c0-d69a068d0351",
     "website": "7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],

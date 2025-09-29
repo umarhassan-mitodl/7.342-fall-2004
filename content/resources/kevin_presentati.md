@@ -8,6 +8,8 @@ description: 'Slides for a student''s proposal presentation based on Rego, E. M.
 file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/6dffdde9da96ef91d1de28a20c5c1395_kevin_presentati.pdf
 file_size: 880175
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
