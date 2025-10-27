@@ -7,8 +7,6 @@ description: 'Project 2 proposal based on the following paper: Al-Hajj, M., M. S
 file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/2bbb1476c666df1caf69f444bcf6ed65_sharon_7_342_p2.pdf
 file_size: 115173
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

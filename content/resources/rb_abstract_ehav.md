@@ -8,8 +8,6 @@ description: 'Project 1 Writing Assignment Proposed abstract for: MacPherson, D.
 file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/869ac633aed24ff07da3eeda0de3c99f_rb_abstract_ehav.pdf
 file_size: 58880
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

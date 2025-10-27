@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the readings for the course, organized by weekly
   session and topic.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -72,11 +70,11 @@ Multiple genetic pathways function to protect our cells from uncontrolled growth
 {{< tdopen >}}
 Vogelstein, B., E. R. Fearon, S. R. Hamilton, S. E. Kern, A. C. Preisinger, M. Leppert, Y. Nakamura, R. White, A. M. Smits and J. L. Bos. "Genetic alterations during colorectal-tumor development." _N Engl J Med._ 319 (1988): 525-532.  
   
-[The New England Journal of Medicine](http://content.nejm.org/)  
+{{% resource_link "0e91ebf7-0d2a-4872-976f-1103ea3121f5" "The New England Journal of Medicine" %}}  
   
 Chin, L., J. Pomerantz, D. Polsky, M. Jacobson, C. Cohen, C. Cordon-Cardo, J. W. Horner 2nd, and R. A. DePinho. "Cooperative effects of INK4a and ras in melanoma susceptibility in vivo." _Genes Dev._ 11 (1997): 2822-2834.  
   
-[Genes and Developement](http://www.genesdev.org/)
+{{% resource_link "4f1990dd-042a-49fe-acb1-061ed782be74" "Genes and Developement" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,11 +91,11 @@ It is essential that the different phases of the cell cycle are precisely coordi
 {{< tdopen >}}
 Hartwell, L. H., J. Culotti, and B. Reid. "Genetic control of the cell-division cycle in yeast. I. Detection of mutants." _Proc. Natl Acad. Sci USA_ 66 (1970): 352-359.  
   
-[Proceedings of National Academy of Sciences](http://www.pnas.org/)  
+{{% resource_link "f3f6502f-0bb3-4492-83d0-40e86d9188a0" "Proceedings of National Academy of Sciences" %}}  
   
 Goodrich, D. W., N. P. Wang, Y. W. Qian, E. Lee, and W. H. Lee. "The retinoblastoma gene product regulates progression through the G1 phase of the cell cycle." _Cell_ 67 (1991): 293-302.  
   
-[CellPress](http://www.cellpress.com/)
+{{% resource_link "895b846d-7e8a-4b4f-9219-2fad62dce48a" "CellPress" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +114,7 @@ Hengartner, M. O., and H. R. Horvitz. "C. elegans cell survival gene ced-9 encod
   
 Lowe, S. W., E. M. Schmitt, S. W. Smith, B. A. Osborne, and T. Jacks. "p53 is required for radiation-induced apoptosis in mouse thymocytes." _Nature_ 362 (1993): 847-849.  
   
-[Nature Publishing Group](http://www.nature.com/)
+{{% resource_link "7a84fe0e-1d91-42a5-a98d-e8547a907529" "Nature Publishing Group" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +165,7 @@ Although the important pathways altered in many types of cancer have been identi
 {{< tdopen >}}
 Meuwissen, R., S. C. Linn, R. I. Linnoila, J. Zevenhoven, W. J. Mooi, and A. Berns. "Induction of small cell lung cancer by somatic inactivation of both Trp53 and Rb1 in a conditional mouse model." _Cancer Cell_ 4 (2003): 181-189.  
   
-[CellPress](http://www.cellpress.com/)  
+{{% resource_link "895b846d-7e8a-4b4f-9219-2fad62dce48a" "CellPress" %}}  
   
 Brown, K., D. Strathdee, S. Bryson, W. Lambie, and A. Balmain. "The malignant capacity of skin tumours induced by expression of a mutant H-ras transgene depends on the cell type targeted." _Current Biol._ 8 (1998): 516-524.
 {{< tdclose >}}
@@ -203,7 +201,7 @@ Differentiation limits the proliferative capacity of cells; terminally different
 {{< tdopen >}}
 Kleinsmith, L. J., and G. B. Pierce. "Multipotentiality of single embryonal carcinoma cells." _Cancer Res._ 24 (1964): 1544-1551.  
   
-[Cancer Research](http://cancerres.aacrjournals.org/)  
+{{% resource_link "621df5b5-64fc-4c93-8eec-adbffb4e407e" "Cancer Research" %}}  
   
 Rego, E. M., L. Z. He, R. P. Warrell Jr, Z. G. Wang, and P. P. Pandolfi. "Retinoic acid (RA) and As2O3 treatment in transgenic models of acute promyelocytic leukemia (APL) unravel the distinct nature of the leukemogenic process induced by the PML-RARalpha and PLZF-RARalpha oncoproteins." _Proc. Natl Acad. Sci. USA_ 97 (2000): 10173-10178.
 {{< tdclose >}}
@@ -241,7 +239,7 @@ Over thirty years ago, Dr. Judah Folkman observed that the growth and spread of 
 {{< tdopen >}}
 Folkman, J., E. Merler, C. Abernathy, and G. Williams. "Isolation of a tumor factor responsible or angiogenesis." _J Exp Med._ 133 (1971): 275-288.  
   
-[Journal of Experimental Medicine](http://www.jem.org/)  
+{{% resource_link "0a37e3f2-5574-4928-b4ef-1a999428662e" "Journal of Experimental Medicine" %}}  
   
 O'Reilly, M. S., T. Boehm, Y. Shing, N. Fukai, G. Vasios, W. S. Lane, E. Flynn, J. R. Birkhead, B. R. Olsen, and J. Folkman. "Endostatin: an endogenous inhibitor of angiogenesis and tumor growth." _Cell_ 88 (1997): 277-285.
 {{< tdclose >}}
@@ -262,7 +260,7 @@ Druker, B. J., S. Tamura, E. Buchdunger, S. Ohno, G. M. Segal, S. Fanning, J. Zi
   
 Paez, J. G., P. A. Janne, J. C. Lee, S. Tracy, H. Greulich, S. Gabriel, P. Herman, F. J. Kaye, N. Lindeman, T. J. Boggon, K. Naoki, H. Sasaki, Y. Fujii, M. J. Eck, W. R. Sellers, B. E. Johnson, and M. Meyerson. "EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy." _Science_ 304 (2004): 1497-1500.  
   
-[Science Magazine](http://www.sciencemag.org/)
+{{% resource_link "dc53451d-8115-41ed-b924-66bf61be13ee" "Science Magazine" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

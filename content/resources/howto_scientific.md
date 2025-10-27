@@ -4,8 +4,6 @@ description: Guidelines on how to read and analyze a scientific paper.
 file: /courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/9f10f2ffe14d529b1ded981e54f4a049_howto_scientific.pdf
 file_size: 16508
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
